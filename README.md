@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Android Native with Kotlin
 - 🧠 Main Skils: Analytical capacity, Optimization and Proactivity
 
-#💻 Tecnologs:
+### 💻 Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Ari-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ari-Koltin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">

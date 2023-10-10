@@ -1,4 +1,4 @@
-### Hi, I'm Arimateia Filho or for those closest Ari 👋
+### Hi, I'm Arimateia Filho, or for those closest, Ari 👋
 
 
 - 🔭 I’m currently working on Descartes System Group

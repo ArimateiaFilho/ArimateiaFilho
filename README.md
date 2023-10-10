@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on Descartes System Group
 - 🌱 I’m currently learning Android Native with Kotlin
-- 📫 How to reach me: filho.castro@outlook.com
 - 💻 Main skils: C, Java, Python, Koltin
 
 <div style="display: inline_block"><br>

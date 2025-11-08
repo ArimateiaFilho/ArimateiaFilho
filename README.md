@@ -1,4 +1,4 @@
-### Hi, I'm Arimateia Filho, but can call me Ari 👋
+### Hi, I'm Arimateia Filho, but you can call me Ari 👋
 
 
 - 🔭 I’m currently working on Descartes System Group

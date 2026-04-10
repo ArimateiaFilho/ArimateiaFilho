@@ -1,7 +1,7 @@
 ### Hi, I'm Arimateia Filho, but you can call me Ari 👋
 
 
-- 🔭 I’m currently working on Descartes System Group
+- 🔭 I’m currently looking for a new oppotunity as a Software Developer | Backend Software Engineer
 - 🌱 I’m currently improving my skills with Microservices and DevOps
 - 🧠 Main Skils: Analytical capacity, Optimization and Proactivity
 

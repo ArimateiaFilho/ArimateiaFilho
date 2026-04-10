@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for a new oppotunity as a Software Developer | Backend Software Engineer
 - 🌱 I’m currently improving my skills with Microservices and DevOps
-- 🧠 Main Skils: Analytical capacity, Optimization and Proactivity
+- 🧠 Main Skils: Analytical capacity, Optimization, Observability and Proactivity
 
 ### 💻 Technologies
 <div style="display: inline_block"><br>
